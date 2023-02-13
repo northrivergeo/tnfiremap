@@ -5,7 +5,7 @@ This has been a fun experiment on pulling data from OSM and displayig it in Leaf
 
 URL
 ========
-https://northrivergeo.github.io/tnosmfiremap/
+https://northrivergeo.github.io/tnfiremap
 
 How it Works
 ========
