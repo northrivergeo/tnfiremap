@@ -10,12 +10,9 @@ https://northrivergeo.github.io/tnfiremap
 How it Works
 ========
 
-In the scripts directory is a very simple script called "process.sh" that pulls all the Fire Hydrants from OSM in a bounding box, clips against the TN boundary, and pushes the result into a leaflet readable location. I then manually push it into Github. 
+In the scripts directory is a very simple script called "process.sh" that pulls all the Fire Hydrants and Firestations from OSM in a bounding box, clips against the TN boundary, and pushes the result into a leaflet readable location. 
 
-Future
-======== 
+There are some gymnastics to get all teh firestations in - they come from OSM as polygons and in some cases points. The script pulls a centroid from the polygons and merges it with the points. 
 
-* Add Firestations. 
 
-* Project out of 4326 into 2274 
 
