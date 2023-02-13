@@ -73,14 +73,14 @@
 
 
 
-        jQuery.getJSON( "http://192.168.2.34/tnosmfiremap/data/firestation.geojson", function( json ){
+        jQuery.getJSON( "https://northrivergeo.github.io/tnfiremap/data/firestation.geojson", function( json ){
            L.geoJSON( json, {
            onEachFeature: addMyFireData,
 	   pointToLayer: createCircleFireMarker
            })
        })
         
-	jQuery.getJSON( "http://192.168.2.34/tnosmfiremap/data/hydrant.geojson", function( json ){
+	jQuery.getJSON( "https://northrivergeo.github.io/tnfiremap/data/hydrant.geojson", function( json ){
            L.geoJSON( json, {
            onEachFeature: addMyHydData,
 	   pointToLayer: createCircleHydMarker
