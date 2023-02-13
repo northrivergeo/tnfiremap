@@ -21,13 +21,15 @@
 
 	var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' + 'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>', mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicmpoYWxlMTk3MSIsImEiOiJja3NodmVldXEwMmJtMnZxN2Jnb3VnYTM4In0.XIl-BKsiOMI9goW1I5A2vw';
 
-        var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
+        var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+	    grayscale   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
             streets  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
             tnmap = L.tileLayer.wms('https://tnmap.tn.gov/arcgis/services/BASEMAPS/IMAGERY/MapServer/WmsServer?', {layers: '0'});
 
 
 
         var baseLayers = {
+		"OSM": osm, 
                 "Grayscale": grayscale,
                 "Streets": streets,
                 "State of TN Imagery": tnmap
