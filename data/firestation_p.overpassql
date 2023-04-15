@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-13T20:20:24Z"/>
+<meta osm_base="2023-04-15T00:27:39Z"/>
 
   <way id="51851274">
     <nd ref="661442857"/>
@@ -410,32 +410,6 @@
     <tag k="name" v="Fire Station 8"/>
     <tag k="operator" v="City of Asheville"/>
   </way>
-  <way id="267405728">
-    <nd ref="2728639208"/>
-    <nd ref="2728639210"/>
-    <nd ref="2728639211"/>
-    <nd ref="2728639212"/>
-    <nd ref="7156256914"/>
-    <nd ref="7156256912"/>
-    <nd ref="7156256910"/>
-    <nd ref="2728639214"/>
-    <nd ref="7156256908"/>
-    <nd ref="2728639215"/>
-    <nd ref="2728639217"/>
-    <nd ref="7156256906"/>
-    <nd ref="7156256904"/>
-    <nd ref="7156256902"/>
-    <nd ref="7156256917"/>
-    <nd ref="2728639223"/>
-    <nd ref="2728639225"/>
-    <nd ref="2728639226"/>
-    <nd ref="2728639227"/>
-    <nd ref="2728639229"/>
-    <nd ref="2728639208"/>
-    <tag k="amenity" v="fire_station"/>
-    <tag k="building" v="yes"/>
-    <tag k="name" v="Nashville fire Department Station 2"/>
-  </way>
   <way id="267657511">
     <nd ref="2730919987"/>
     <nd ref="2730919989"/>
@@ -526,9 +500,15 @@
     <nd ref="2923512386"/>
     <nd ref="2923512387"/>
     <nd ref="2923512374"/>
+    <tag k="addr:city" v="Weaverville"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="28787"/>
+    <tag k="addr:state" v="NC"/>
+    <tag k="addr:street" v="Monticello Road"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Weaverville Fire Department"/>
+    <tag k="phone" v="+18286453500"/>
   </way>
   <way id="289122610">
     <nd ref="2926723036"/>
@@ -1570,7 +1550,7 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Elizabethton Fire Department"/>
-    <tag k="phone" v="+1-423-542-5421"/>
+    <tag k="phone" v="423-542-5421"/>
     <tag k="website" v="http://www.elizabethton.org/departments/fire/index.php"/>
   </way>
   <way id="512690657">
@@ -2897,6 +2877,15 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Cowpens FD"/>
+  </way>
+  <way id="691549022">
+    <nd ref="6489569909"/>
+    <nd ref="6489569815"/>
+    <nd ref="6489569719"/>
+    <nd ref="6489569637"/>
+    <nd ref="6489569909"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
   </way>
   <way id="691990859">
     <nd ref="6495419525"/>
@@ -4538,6 +4527,7 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Philadelphia Fire Department"/>
+    <tag k="name:fr" v="Pompiers de Philadelphia"/>
   </way>
   <way id="957036816">
     <nd ref="8855951489"/>
@@ -5392,6 +5382,88 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="name" v="Rural/Metro Fire Station No. 16"/>
   </way>
+  <way id="1150507297">
+    <nd ref="10702472695"/>
+    <nd ref="10702472694"/>
+    <nd ref="10702472693"/>
+    <nd ref="10702472692"/>
+    <nd ref="10702472691"/>
+    <nd ref="10702472690"/>
+    <nd ref="10702472695"/>
+    <tag k="addr:city" v="Cherokee"/>
+    <tag k="addr:postcode" v="28719"/>
+    <tag k="addr:state" v="NC"/>
+    <tag k="addr:street" v="Old Mission Road"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cherokee Fire Department Station 2"/>
+  </way>
+  <way id="1151386479">
+    <nd ref="10711389272"/>
+    <nd ref="10711389273"/>
+    <nd ref="10711389274"/>
+    <nd ref="10711389275"/>
+    <nd ref="10711389276"/>
+    <nd ref="10711389277"/>
+    <nd ref="10711389272"/>
+    <tag k="addr:city" v="Bryson City"/>
+    <tag k="addr:housenumber" v="3601"/>
+    <tag k="addr:postcode" v="28713"/>
+    <tag k="addr:state" v="NC"/>
+    <tag k="addr:street" v="Alarka Road"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Alarka Fire Department"/>
+  </way>
+  <way id="1152973071">
+    <nd ref="10723817959"/>
+    <nd ref="10723817958"/>
+    <nd ref="10723817956"/>
+    <nd ref="10723817957"/>
+    <nd ref="10723817959"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="fire_station"/>
+    <tag k="gnis:feature_id" v="2654065"/>
+    <tag k="name" v="Henderson County Fire Department Station 4"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1153579539">
+    <nd ref="10728252342"/>
+    <nd ref="10728252343"/>
+    <nd ref="10728252344"/>
+    <nd ref="10728252345"/>
+    <nd ref="10728252346"/>
+    <nd ref="10728252347"/>
+    <nd ref="10728252348"/>
+    <nd ref="10728252349"/>
+    <nd ref="10728252342"/>
+    <tag k="amenity" v="fire_station"/>
+  </way>
+  <way id="1154877539">
+    <nd ref="963962718"/>
+    <nd ref="10740320711"/>
+    <nd ref="10740320712"/>
+    <nd ref="10740470008"/>
+    <nd ref="10740470005"/>
+    <nd ref="10740320713"/>
+    <nd ref="963962718"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sparta Fire Station No. 3"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1156369533">
+    <nd ref="10753898348"/>
+    <nd ref="10753898349"/>
+    <nd ref="10753898350"/>
+    <nd ref="10753898351"/>
+    <nd ref="10753898352"/>
+    <nd ref="10753898353"/>
+    <nd ref="10753898348"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Volunteer Fire Station"/>
+  </way>
   <node id="5059433666" lat="35.1934248" lon="-90.1934755"/>
   <node id="5059433667" lat="35.1932538" lon="-90.1934781"/>
   <node id="5059433668" lat="35.1932553" lon="-90.1936206"/>
@@ -5657,6 +5729,10 @@
   <node id="3934587539" lat="35.2289173" lon="-88.2369563"/>
   <node id="3934587540" lat="35.2290340" lon="-88.2370830"/>
   <node id="3934587541" lat="35.2289264" lon="-88.2370937"/>
+  <node id="10723817956" lat="35.6356909" lon="-88.2729384"/>
+  <node id="10723817957" lat="35.6356464" lon="-88.2731841"/>
+  <node id="10723817958" lat="35.6355933" lon="-88.2729117"/>
+  <node id="10723817959" lat="35.6355489" lon="-88.2731573"/>
   <node id="1221522683" lat="35.9014556" lon="-88.7575796"/>
   <node id="1221522696" lat="35.9012904" lon="-88.7575579"/>
   <node id="1221522705" lat="35.9012643" lon="-88.7578311"/>
@@ -6119,26 +6195,6 @@
   <node id="9793668796" lat="36.1792034" lon="-86.8108852"/>
   <node id="9793668797" lat="36.1791938" lon="-86.8108833"/>
   <node id="9793668798" lat="36.1791960" lon="-86.8108667"/>
-  <node id="2728639208" lat="36.1697677" lon="-86.7796437"/>
-  <node id="2728639210" lat="36.1700016" lon="-86.7790849"/>
-  <node id="2728639211" lat="36.1699624" lon="-86.7790598"/>
-  <node id="2728639212" lat="36.1699467" lon="-86.7790972"/>
-  <node id="2728639214" lat="36.1697539" lon="-86.7789718"/>
-  <node id="2728639215" lat="36.1696849" lon="-86.7790404"/>
-  <node id="2728639217" lat="36.1696527" lon="-86.7790197"/>
-  <node id="2728639223" lat="36.1695050" lon="-86.7793371"/>
-  <node id="2728639225" lat="36.1695916" lon="-86.7793927"/>
-  <node id="2728639226" lat="36.1695689" lon="-86.7794467"/>
-  <node id="2728639227" lat="36.1696579" lon="-86.7795039"/>
-  <node id="2728639229" lat="36.1696350" lon="-86.7795585"/>
-  <node id="7156256902" lat="36.1695844" lon="-86.7790762"/>
-  <node id="7156256904" lat="36.1696324" lon="-86.7789617"/>
-  <node id="7156256906" lat="36.1696676" lon="-86.7789843"/>
-  <node id="7156256908" lat="36.1697222" lon="-86.7789513"/>
-  <node id="7156256910" lat="36.1697494" lon="-86.7789825"/>
-  <node id="7156256912" lat="36.1699096" lon="-86.7790854"/>
-  <node id="7156256914" lat="36.1699136" lon="-86.7790759"/>
-  <node id="7156256917" lat="36.1696079" lon="-86.7790913"/>
   <node id="2730919987" lat="36.1703115" lon="-86.7648495"/>
   <node id="2730919989" lat="36.1699413" lon="-86.7646286"/>
   <node id="2730919991" lat="36.1701341" lon="-86.7641328"/>
@@ -6413,6 +6469,12 @@
   <node id="6510365117" lat="35.4430811" lon="-83.9322619"/>
   <node id="6510365115" lat="35.4431826" lon="-83.9319074"/>
   <node id="6510365116" lat="35.4430642" lon="-83.9319178"/>
+  <node id="963962718" lat="35.9355807" lon="-85.4778702"/>
+  <node id="10740320711" lat="35.9355320" lon="-85.4776049"/>
+  <node id="10740320712" lat="35.9356745" lon="-85.4775650"/>
+  <node id="10740320713" lat="35.9357232" lon="-85.4778303"/>
+  <node id="10740470005" lat="35.9356941" lon="-85.4776715"/>
+  <node id="10740470008" lat="35.9356830" lon="-85.4776114"/>
   <node id="4641111115" lat="35.9095013" lon="-84.8777973"/>
   <node id="4641111116" lat="35.9093696" lon="-84.8778700"/>
   <node id="4641111117" lat="35.9093170" lon="-84.8777333"/>
@@ -6768,6 +6830,12 @@
   <node id="6510373205" lat="35.3676719" lon="-83.6925731"/>
   <node id="6510373206" lat="35.3673870" lon="-83.6925690"/>
   <node id="6510373207" lat="35.3673853" lon="-83.6927468"/>
+  <node id="10711389272" lat="35.3588452" lon="-83.4546865"/>
+  <node id="10711389273" lat="35.3587338" lon="-83.4547042"/>
+  <node id="10711389274" lat="35.3587161" lon="-83.4545036"/>
+  <node id="10711389275" lat="35.3586576" lon="-83.4543158"/>
+  <node id="10711389276" lat="35.3587666" lon="-83.4542677"/>
+  <node id="10711389277" lat="35.3588260" lon="-83.4544859"/>
   <node id="6444492467" lat="35.3052360" lon="-83.1997415"/>
   <node id="6444492468" lat="35.3050851" lon="-83.1996832"/>
   <node id="6444492469" lat="35.3051930" lon="-83.1993108"/>
@@ -6822,6 +6890,12 @@
   <node id="6764132427" lat="35.4874710" lon="-83.3140239"/>
   <node id="6764132428" lat="35.4874857" lon="-83.3141042"/>
   <node id="6764132429" lat="35.4875661" lon="-83.3140821"/>
+  <node id="10702472690" lat="35.4656822" lon="-83.2758970"/>
+  <node id="10702472691" lat="35.4656839" lon="-83.2758808"/>
+  <node id="10702472692" lat="35.4656204" lon="-83.2758711"/>
+  <node id="10702472693" lat="35.4656526" lon="-83.2755505"/>
+  <node id="10702472694" lat="35.4657971" lon="-83.2755724"/>
+  <node id="10702472695" lat="35.4657632" lon="-83.2759093"/>
   <node id="2737394827" lat="35.1369787" lon="-82.9317890"/>
   <node id="2737394829" lat="35.1367921" lon="-82.9318945"/>
   <node id="2737394831" lat="35.1368074" lon="-82.9319351"/>
@@ -7048,6 +7122,12 @@
   <node id="2713979672" lat="35.5875714" lon="-82.5029214"/>
   <node id="2713979676" lat="35.5878298" lon="-82.5029573"/>
   <node id="2713979678" lat="35.5877784" lon="-82.5030683"/>
+  <node id="10753898348" lat="35.6112472" lon="-82.5021358"/>
+  <node id="10753898349" lat="35.6112713" lon="-82.5019466"/>
+  <node id="10753898350" lat="35.6110003" lon="-82.5018943"/>
+  <node id="10753898351" lat="35.6109857" lon="-82.5020092"/>
+  <node id="10753898352" lat="35.6110090" lon="-82.5020689"/>
+  <node id="10753898353" lat="35.6110968" lon="-82.5021068"/>
   <node id="5309263850" lat="35.6123814" lon="-82.4208106"/>
   <node id="5309263851" lat="35.6122551" lon="-82.4208214"/>
   <node id="5309263852" lat="35.6122354" lon="-82.4204714"/>
@@ -7517,6 +7597,10 @@
   <node id="6444286047" lat="35.1159430" lon="-82.1508010"/>
   <node id="6444286366" lat="35.1157930" lon="-82.1510400"/>
   <node id="6444286401" lat="35.1158390" lon="-82.1510230"/>
+  <node id="6489569637" lat="35.1217550" lon="-82.1279990"/>
+  <node id="6489569719" lat="35.1218890" lon="-82.1281150"/>
+  <node id="6489569815" lat="35.1219560" lon="-82.1280010"/>
+  <node id="6489569909" lat="35.1218220" lon="-82.1278850"/>
   <node id="4133057706" lat="35.0403203" lon="-82.0991151"/>
   <node id="4133057716" lat="35.0403926" lon="-82.0989340"/>
   <node id="4133057739" lat="35.0404267" lon="-82.0991784"/>
@@ -7609,8 +7693,8 @@
   <node id="7131903887" lat="35.4204398" lon="-82.1878229"/>
   <node id="8613647648" lat="35.4488719" lon="-82.1506966"/>
   <node id="8613647649" lat="35.4486768" lon="-82.1501277"/>
-  <node id="8613647650" lat="35.4484620" lon="-82.1502388"/>
-  <node id="8613647651" lat="35.4486573" lon="-82.1508076"/>
+  <node id="8613647650" lat="35.4484723" lon="-82.1502229"/>
+  <node id="8613647651" lat="35.4486578" lon="-82.1508253"/>
   <node id="7122896413" lat="35.3327251" lon="-81.8698638"/>
   <node id="7122896414" lat="35.3325466" lon="-81.8699215"/>
   <node id="7122896415" lat="35.3324497" lon="-81.8694709"/>
@@ -7748,6 +7832,14 @@
   <node id="3910130496" lat="36.1614383" lon="-81.8703027"/>
   <node id="3910130497" lat="36.1614301" lon="-81.8703287"/>
   <node id="3910130498" lat="36.1614754" lon="-81.8703506"/>
+  <node id="10728252342" lat="36.2467257" lon="-81.9002545"/>
+  <node id="10728252343" lat="36.2467776" lon="-81.9001384"/>
+  <node id="10728252344" lat="36.2467447" lon="-81.9001158"/>
+  <node id="10728252345" lat="36.2467520" lon="-81.9000995"/>
+  <node id="10728252346" lat="36.2465361" lon="-81.8999508"/>
+  <node id="10728252347" lat="36.2464708" lon="-81.9000967"/>
+  <node id="10728252348" lat="36.2466822" lon="-81.9002422"/>
+  <node id="10728252349" lat="36.2466883" lon="-81.9002287"/>
   <node id="6037452115" lat="36.1962040" lon="-81.8780190"/>
   <node id="6037452116" lat="36.1959356" lon="-81.8779010"/>
   <node id="6037452117" lat="36.1959876" lon="-81.8777722"/>

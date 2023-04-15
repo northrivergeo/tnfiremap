@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-13T20:20:24Z"/>
+<meta osm_base="2023-04-15T00:27:39Z"/>
 
   <node id="153554776" lat="35.2248169" lon="-87.2506676">
     <tag k="amenity" v="fire_station"/>
@@ -880,10 +880,6 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="name" v="Loan Oak Fire Department"/>
   </node>
-  <node id="963962718" lat="35.9356425" lon="-85.4777275">
-    <tag k="amenity" v="fire_station"/>
-    <tag k="name" v="Sparta Fire Station No. 3"/>
-  </node>
   <node id="963964977" lat="35.9632043" lon="-85.4839461">
     <tag k="amenity" v="fire_station"/>
     <tag k="name" v="Sparta Fire Station No. 1"/>
@@ -1256,6 +1252,7 @@
     <tag k="addr:street" v="Polkville Road"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="name" v="Polkville VFD Station 1"/>
+    <tag k="phone" v="+17045387831"/>
   </node>
   <node id="6872649833" lat="35.4908513" lon="-81.9777179">
     <tag k="addr:city" v="Union Mills"/>
@@ -1841,14 +1838,6 @@
     <tag k="name" v="Balsam Willets Ochre Hill Fire"/>
     <tag k="phone" v="+18285863756"/>
   </node>
-  <node id="9959206561" lat="35.4657236" lon="-83.2756858">
-    <tag k="addr:city" v="Cherokee"/>
-    <tag k="addr:postcode" v="28719"/>
-    <tag k="addr:state" v="NC"/>
-    <tag k="addr:street" v="Old Mission Road"/>
-    <tag k="amenity" v="fire_station"/>
-    <tag k="name" v="Cherokee Fire Department Station 2"/>
-  </node>
   <node id="9963726095" lat="35.6622325" lon="-81.6499378">
     <tag k="addr:city" v="Morganton"/>
     <tag k="addr:housenumber" v="2510"/>
@@ -2044,6 +2033,7 @@
     <tag k="addr:state" v="TN"/>
     <tag k="addr:street" v="TN-32"/>
     <tag k="amenity" v="fire_station"/>
+    <tag k="check_date" v="2023-03-16"/>
     <tag k="name" v="Cosby Volunteer Fire Department"/>
     <tag k="phone" v="+14234874439"/>
   </node>
@@ -2126,6 +2116,53 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="name" v="North Canton Volunteer Fire Department"/>
     <tag k="phone" v="+18282359048"/>
+  </node>
+  <node id="10674994699" lat="35.6580024" lon="-87.5983152">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Pleasantville Volunteer Fire and Rescue"/>
+  </node>
+  <node id="10674994700" lat="35.5491550" lon="-87.5588840">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Lewis County Volunteer Fire Department"/>
+  </node>
+  <node id="10674994701" lat="35.5490055" lon="-87.5545684">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Hohenwald Fire Department"/>
+  </node>
+  <node id="10707652982" lat="36.3535444" lon="-84.7218736">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Clear Fork Area VFD"/>
+  </node>
+  <node id="10728729816" lat="36.5004757" lon="-84.5618709">
+    <tag k="amenity" v="fire_station"/>
+  </node>
+  <node id="10737137955" lat="35.7478646" lon="-81.6894844">
+    <tag k="addr:city" v="Morganton"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="28655"/>
+    <tag k="addr:state" v="NC"/>
+    <tag k="addr:street" v="Pitt Street"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Glen Alpine Fire Department"/>
+    <tag k="phone" v="+18285842622"/>
+  </node>
+  <node id="10746815305" lat="36.1939628" lon="-82.0586343">
+    <tag k="addr:housenumber" v="8478"/>
+    <tag k="addr:postcode" v="37687"/>
+    <tag k="addr:street" v="US 19E"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="contact:facebook" v="RoanMountainVFD"/>
+    <tag k="name" v="Roan Mountain Volunteer Fire Dept."/>
+  </node>
+  <node id="10774404940" lat="36.1733795" lon="-85.9292532">
+    <tag k="addr:city" v="Gordonsville"/>
+    <tag k="addr:postcode" v="38563"/>
+    <tag k="addr:state" v="TN"/>
+    <tag k="addr:street" v="Fairview Circle"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Gordonsville Fire Department"/>
+    <tag k="operator" v="City of Gordonsville"/>
+    <tag k="wikipedia" v="en:Gordonsville Fire Department"/>
   </node>
 
 </osm>

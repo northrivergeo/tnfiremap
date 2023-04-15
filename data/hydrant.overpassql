@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-13T20:20:24Z"/>
+<meta osm_base="2023-04-15T00:27:39Z"/>
 
   <node id="1364451535" lat="35.0623899" lon="-85.3072231">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
     <tag k="fire_hydrant:type" v="pillar"/>
   </node>
   <node id="2051803665" lat="35.0613797" lon="-85.3049729">
@@ -90,90 +91,90 @@
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484116" lat="35.2745866" lon="-82.4961929">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484117" lat="35.2751434" lon="-82.4948391">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484118" lat="35.2755122" lon="-82.4931388">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484120" lat="35.2770190" lon="-82.4906921">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484121" lat="35.2787142" lon="-82.4880721">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484122" lat="35.2793308" lon="-82.4864634">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484123" lat="35.2803259" lon="-82.4842635">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484124" lat="35.2888655" lon="-82.4761221">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484125" lat="35.2932113" lon="-82.4684554">
     <tag k="colour" v="yellow"/>
     <tag k="colour:bonnet" v="white"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252484127" lat="35.3032939" lon="-82.4690133">
@@ -181,9 +182,9 @@
     <tag k="colour:bonnet" v="white"/>
     <tag k="colour:cap" v="green"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252523858" lat="35.3148622" lon="-82.4599099">
@@ -191,9 +192,9 @@
     <tag k="colour:bonnet" v="white"/>
     <tag k="colour:cap" v="red"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3252527163" lat="35.6581813" lon="-81.9637856">
@@ -201,9 +202,9 @@
     <tag k="colour:bonnet" v="grey"/>
     <tag k="colour:cap" v="grey"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:pillar" v="dry_barrel"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="in_service" v="yes"/>
+    <tag k="pillar:type" v="dry_barrel"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="3719375579" lat="35.8807756" lon="-86.4348978">
@@ -601,891 +602,905 @@
     <tag k="operator" v="Clarksville Fire Department"/>
   </node>
   <node id="5422948186" lat="36.3547423" lon="-88.2213059">
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded"/>
-    <tag k="fire_hydrant:couplings" v="(1) 2 1/2&quot;"/>
     <tag k="fire_hydrant:diameter" v="6"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 gpm"/>
     <tag k="ref" v="PLH408"/>
   </node>
   <node id="5423052867" lat="36.3620707" lon="-88.2118678">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings" v="3"/>
+    <tag k="couplings:diameters" v="C;C;B"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="628 gpm"/>
     <tag k="fire_hydrant:position" v="parking_lot"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="628 gpm"/>
     <tag k="ref" v="PLH401"/>
   </node>
   <node id="5423144193" lat="36.3608956" lon="-88.2138097">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings" v="3"/>
+    <tag k="couplings:diameters" v="C;C;B"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="625 gpm"/>
     <tag k="fire_hydrant:position" v="parking_lot"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="625 gpm"/>
     <tag k="ref" v="PLH402"/>
   </node>
   <node id="5424957475" lat="36.3693177" lon="-88.2001814">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="lane"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH404"/>
   </node>
   <node id="5424976394" lat="36.3684366" lon="-88.2018014">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="lane"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH405"/>
   </node>
   <node id="5425200521" lat="36.3690694" lon="-88.2036084">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="lane"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH412"/>
   </node>
   <node id="5425200523" lat="36.3701232" lon="-88.1963557">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH411"/>
   </node>
   <node id="5425229287" lat="36.3773440" lon="-88.1847471">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH407"/>
   </node>
   <node id="5425256507" lat="36.3808506" lon="-88.1790609">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH414"/>
   </node>
   <node id="5425272653" lat="36.3869996" lon="-88.1690401">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH416"/>
   </node>
   <node id="5425293871" lat="36.3572848" lon="-88.2075567">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH419"/>
   </node>
   <node id="5425781252" lat="36.3754786" lon="-88.1361999">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Antioch Harbor / West Antioch Intersection"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH328 Steamer Plug "/>
+    <tag k="flow_rate" v="1250 gpm"/>
+    <tag k="ref" v="PLH328 Steamer Plug"/>
   </node>
   <node id="5427023979" lat="36.4038155" lon="-88.1142569">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH301 Steamer Plug "/>
+    <tag k="flow_rate" v="1250 gpm"/>
+    <tag k="ref" v="PLH301 Steamer Plug"/>
   </node>
   <node id="5427026720" lat="36.4031765" lon="-88.1157696">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH302 Steamer Plug "/>
+    <tag k="flow_rate" v="1250 gpm"/>
+    <tag k="ref" v="PLH302 Steamer Plug"/>
   </node>
   <node id="5427312705" lat="36.4017517" lon="-88.1140208">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="1250 gpm"/>
     <tag k="ref" v="PLH303 Station 3"/>
   </node>
   <node id="5427327094" lat="36.3811981" lon="-88.1186986">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH304 Steamer Plug "/>
+    <tag k="flow_rate" v="1250 gpm"/>
+    <tag k="ref" v="PLH304 Steamer Plug"/>
   </node>
   <node id="5427337494" lat="36.3820531" lon="-88.0970156">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH309 Blow Off Plug "/>
-  </node>
-  <node id="5427344840" lat="36.4077270" lon="-88.1245029">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH315 Blow Off Plug "/>
-  </node>
-  <node id="5427379774" lat="36.4037465" lon="-88.1175828">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH318 Blow Off Plug "/>
-  </node>
-  <node id="5427380067" lat="36.4091950" lon="-88.1061780">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH320 Blow Off Plug "/>
-  </node>
-  <node id="5427394311" lat="36.4067170" lon="-88.0936843">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH319 Blow Off Plug "/>
-  </node>
-  <node id="5427406548" lat="36.3982760" lon="-88.1073578">
-    <tag k="description" v="Blow Off Plug "/>
-    <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
-    <tag k="fire_hydrant:position" v="green"/>
-    <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH321 Blow Off Plug "/>
-  </node>
-  <node id="5427410521" lat="36.3593155" lon="-88.1237085">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded"/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
+    <tag k="ref" v="PLH309 Blow Off Plug"/>
+  </node>
+  <node id="5427344840" lat="36.4077270" lon="-88.1245029">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
+    <tag k="ref" v="PLH315 Blow Off Plug"/>
+  </node>
+  <node id="5427379774" lat="36.4037465" lon="-88.1175828">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH318 Blow Off Plug"/>
+  </node>
+  <node id="5427380067" lat="36.4091950" lon="-88.1061780">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH320 Blow Off Plug"/>
+  </node>
+  <node id="5427394311" lat="36.4067170" lon="-88.0936843">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH319 Blow Off Plug"/>
+  </node>
+  <node id="5427406548" lat="36.3982760" lon="-88.1073578">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH321 Blow Off Plug"/>
+  </node>
+  <node id="5427410521" lat="36.3593155" lon="-88.1237085">
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 m³/h"/>
     <tag k="ref" v="PLH322"/>
   </node>
   <node id="5427411518" lat="36.3643517" lon="-88.1311758">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH326 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH326 Blow Off Plug"/>
   </node>
   <node id="5427414853" lat="36.3574925" lon="-88.1276996">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH323 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH323 Blow Off Plug"/>
   </node>
   <node id="5427419383" lat="36.3570087" lon="-88.1315835">
-    <tag k="description" v="Blow Off Plug  Crattie Spur"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug Crattie Spur"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH324 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH324 Blow Off Plug"/>
   </node>
   <node id="5427425250" lat="36.3621748" lon="-88.1280215">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH325 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH325 Blow Off Plug"/>
   </node>
   <node id="5427436458" lat="36.3626409" lon="-88.1322598">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH327 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH327 Blow Off Plug"/>
   </node>
   <node id="5427438571" lat="36.3675993" lon="-88.1365299">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH329 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH329 Blow Off Plug"/>
   </node>
   <node id="5427444642" lat="36.4140261" lon="-88.1333756">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="450 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH330 Blow Off Plug "/>
+    <tag k="flow_rate" v="450 m³/h"/>
+    <tag k="ref" v="PLH330 Blow Off Plug"/>
   </node>
   <node id="5427455034" lat="36.3627125" lon="-88.1195569">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH331 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH331 Blow Off Plug"/>
   </node>
   <node id="5427461691" lat="36.4123340" lon="-88.0941081">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH334 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH334 Blow Off Plug"/>
   </node>
   <node id="5427465364" lat="36.4060662" lon="-88.0955458">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH335 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH335 Blow Off Plug"/>
   </node>
   <node id="5427465957" lat="36.4090361" lon="-88.1032705">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 m³/h"/>
     <tag k="ref" v="PLH337"/>
   </node>
   <node id="5427471453" lat="36.3863359" lon="-88.0986464">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH339 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH339 Blow Off Plug"/>
   </node>
   <node id="5427475412" lat="36.3756726" lon="-88.1201363">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH343 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH343 Blow Off Plug"/>
   </node>
   <node id="5427476954" lat="36.3751673" lon="-88.1218743">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH344 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH344 Blow Off Plug"/>
   </node>
   <node id="5427489412" lat="36.3722087" lon="-88.1202543">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded 2 1/2&quot;"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded 2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH345 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH345 Blow Off Plug"/>
   </node>
   <node id="5427491427" lat="36.3706451" lon="-88.1157804">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH346 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 m³/h"/>
+    <tag k="ref" v="PLH346 Blow Off Plug"/>
   </node>
   <node id="5427492662" lat="36.3711289" lon="-88.1176740">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 m³/h"/>
     <tag k="ref" v="PLH347"/>
   </node>
   <node id="5427604748" lat="36.3896472" lon="-88.2570952">
-    <tag k="description" v="Blow Off Plug  315 Robert Barnhill Rd "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug 315 Robert Barnhill Rd"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH201 Blow Off Plug "/>
+    <tag k="flow_rate" v="300 m³/h"/>
+    <tag k="ref" v="PLH201 Blow Off Plug"/>
   </node>
   <node id="5427614126" lat="36.3956666" lon="-88.2613814">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings" v="1"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 m³/h"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLP202 Blow Off Plug "/>
+    <tag k="flow_rate" v="300 m³/h"/>
+    <tag k="ref" v="PLP202 Blow Off Plug"/>
   </node>
   <node id="5432358555" lat="36.4354385" lon="-88.0806917">
+    <tag k="couplings" v="3"/>
+    <tag k="couplings:diameters" v="C;C;B"/>
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug behind Conference Ctr."/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
-    <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="850 gpm"/>
     <tag k="ref" v="PLH104"/>
   </node>
   <node id="5432426439" lat="36.4478777" lon="-88.1206424">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH154 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH154 Blow Off Plug"/>
   </node>
   <node id="5432426763" lat="36.4696481" lon="-88.0908895">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="850 gpm"/>
     <tag k="ref" v="PLH100"/>
   </node>
   <node id="5432431251" lat="36.4311356" lon="-88.1161773">
-    <tag k="description" v="Steamer Plug  @ Subway "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug @ Subway"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH101 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH101 Steamer Plug"/>
   </node>
   <node id="5432431768" lat="36.4318737" lon="-88.1130391">
-    <tag k="description" v="Steamer Plug  @ Amvets"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug @ Amvets"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH102 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH102 Steamer Plug"/>
   </node>
   <node id="5432435858" lat="36.4340056" lon="-88.0798227">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH105 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH105 Steamer Plug"/>
   </node>
   <node id="5432436623" lat="36.4341233" lon="-88.0792648">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug by Flag Poles"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH106 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH106 Steamer Plug"/>
   </node>
   <node id="5432437298" lat="36.4346498" lon="-88.0789590">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug Lowerc Parking Lot"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH107 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH107 Steamer Plug"/>
   </node>
   <node id="5432438480" lat="36.4399064" lon="-88.0810136">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug near Park Office"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="850 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH108 Steamer Plug "/>
+    <tag k="flow_rate" v="850 gpm"/>
+    <tag k="ref" v="PLH108 Steamer Plug"/>
   </node>
   <node id="5438523881" lat="36.4868510" lon="-88.0777030">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug at Water Tower"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="450 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH109 Steamer Plug "/>
+    <tag k="flow_rate" v="450 gpm"/>
+    <tag k="ref" v="PLH109 Steamer Plug"/>
   </node>
   <node id="5438531077" lat="36.4337703" lon="-88.1172924">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH110 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH110 Steamer Plug"/>
   </node>
   <node id="5438531453" lat="36.4688893" lon="-88.0890970">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH111 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH111 Steamer Plug"/>
   </node>
   <node id="5438541112" lat="36.4689065" lon="-88.0880670">
-    <tag k="description" v="Steamer Plug  52 Breakers bend dr"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug 52 Breakers bend dr"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH112 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH112 Steamer Plug"/>
   </node>
   <node id="5438555859" lat="36.4682163" lon="-88.0869298">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH113 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH113 Steamer Plug"/>
   </node>
   <node id="5438556367" lat="36.4360953" lon="-88.0908251">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug Station 1"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="1250 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH114 Steamer Plug "/>
+    <tag k="flow_rate" v="1250 gpm"/>
+    <tag k="ref" v="PLH114 Steamer Plug"/>
   </node>
   <node id="5438561585" lat="36.4927624" lon="-88.0815554">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH116 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH116 Blow Off Plug"/>
   </node>
   <node id="5438563218" lat="36.4832920" lon="-88.0817270">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH115 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH115 Blow Off Plug"/>
   </node>
   <node id="5438566875" lat="36.4510253" lon="-88.0809331">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH118 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH118 Blow Off Plug"/>
   </node>
   <node id="5438566890" lat="36.4342828" lon="-88.1150079">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH119 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH119 Steamer Plug"/>
   </node>
   <node id="5438570272" lat="36.4389777" lon="-88.1122184">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH120 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH120 Blow Off Plug"/>
   </node>
   <node id="5438573742" lat="36.4313138" lon="-88.0836582">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Steamer Plug Golf Course Pk Lot"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH121 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH121 Steamer Plug"/>
   </node>
   <node id="5438574911" lat="36.4323150" lon="-88.0813408">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Blow Off Plug @ Cabin 2"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH122 Blow Off Plug "/>
+    <tag k="flow_rate" v="300 gpm"/>
+    <tag k="ref" v="PLH122 Blow Off Plug"/>
   </node>
   <node id="5438581016" lat="36.4312102" lon="-88.0814910">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="300 gpm"/>
     <tag k="ref" v="PLH123"/>
   </node>
   <node id="5438583821" lat="36.4311239" lon="-88.0807400">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="300 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH124 Blow Off Plug "/>
+    <tag k="flow_rate" v="300 gpm"/>
+    <tag k="ref" v="PLH124 Blow Off Plug"/>
   </node>
   <node id="5438588505" lat="36.4926980" lon="-88.0858040">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="475 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH125 Blow Off Plug "/>
+    <tag k="flow_rate" v="475 gpm"/>
+    <tag k="ref" v="PLH125 Blow Off Plug"/>
   </node>
   <node id="5438595817" lat="36.4919735" lon="-88.0886579">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH126 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH126 Blow Off Plug"/>
   </node>
   <node id="5438597346" lat="36.4912146" lon="-88.0873060">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH127 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH127 Blow Off Plug"/>
   </node>
   <node id="5438599410" lat="36.4918700" lon="-88.0907178">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH129 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH129 Blow Off Plug"/>
   </node>
   <node id="5438601331" lat="36.4905419" lon="-88.0857611">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH130 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH130 Blow Off Plug"/>
   </node>
   <node id="5438601790" lat="36.4878677" lon="-88.0894732">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH131 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH131 Blow Off Plug"/>
   </node>
   <node id="5438606830" lat="36.4712203" lon="-88.0900526">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH132 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH132 Blow Off Plug"/>
   </node>
   <node id="5438608943" lat="36.4666136" lon="-88.0873704">
     <tag k="description" v="2 1/2&quot;"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:couplings" v="Threaded "/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
+    <tag k="fire_hydrant:couplings" v="Threaded"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH134 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH134 Blow Off Plug"/>
   </node>
   <node id="5438614831" lat="36.4698745" lon="-88.0834651">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:description" v="Threaded"/>
+    <tag k="couplings:diameters" v="2 1/2&quot;"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:couplings" v="Threaded "/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH135 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH135 Blow Off Plug"/>
   </node>
   <node id="5438616926" lat="36.4910588" lon="-88.0636382">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH137 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH137 Blow Off Plug"/>
   </node>
   <node id="5438766158" lat="36.4920419" lon="-88.0796242">
-    <tag k="description" v="Blow Off Plug  behind hedge"/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug behind hedge"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="flow_rate" v="350 gpm"/>
     <tag k="ref" v="PLH138"/>
   </node>
   <node id="5438769086" lat="36.4937668" lon="-88.0751824">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH139 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH139 Blow Off Plug"/>
   </node>
   <node id="5438770121" lat="36.4940772" lon="-88.0724573">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH140 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH140 Blow Off Plug"/>
   </node>
   <node id="5438771796" lat="36.4920973" lon="-88.0694103">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH141 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH141 Blow Off Plug"/>
   </node>
   <node id="5438774714" lat="36.4666759" lon="-88.0865550">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH142 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH142 Steamer Plug"/>
   </node>
   <node id="5438775317" lat="36.4662014" lon="-88.0859864">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH143 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH143 Steamer Plug"/>
   </node>
   <node id="5438776051" lat="36.4659425" lon="-88.0850101">
+    <tag k="couplings:type" v="Threaded"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH145 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH145 Steamer Plug"/>
   </node>
   <node id="5438778657" lat="36.4895011" lon="-88.0822098">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="operator" v="PLH150 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="operator" v="PLH150 Blow Off Plug"/>
   </node>
   <node id="5438780570" lat="36.4572281" lon="-88.0933571">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH148 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH148 Blow Off Plug"/>
   </node>
   <node id="5438782142" lat="36.4519817" lon="-88.0812120">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH149 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH149 Blow Off Plug"/>
   </node>
   <node id="5438786721" lat="36.4505320" lon="-88.0795491">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH151 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH151 Blow Off Plug"/>
   </node>
   <node id="5438787447" lat="36.4441718" lon="-88.0792916">
-    <tag k="description" v="Steamer Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Steamer Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="1B/2C"/>
-    <tag k="fire_hydrant:flow_capacity" v="750 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH152 Steamer Plug "/>
+    <tag k="flow_rate" v="750 gpm"/>
+    <tag k="ref" v="PLH152 Steamer Plug"/>
   </node>
   <node id="5438789979" lat="36.4933996" lon="-88.0644429">
-    <tag k="description" v="Blow Off Plug "/>
+    <tag k="couplings:type" v="Threaded"/>
+    <tag k="description" v="Blow Off Plug"/>
     <tag k="emergency" v="fire_hydrant"/>
-    <tag k="fire_hydrant:coupling_type" v="Threaded "/>
     <tag k="fire_hydrant:couplings" v="2 1/2&quot;"/>
-    <tag k="fire_hydrant:flow_capacity" v="350 gpm"/>
     <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-    <tag k="ref" v="PLH153 Blow Off Plug "/>
+    <tag k="flow_rate" v="350 gpm"/>
+    <tag k="ref" v="PLH153 Blow Off Plug"/>
   </node>
   <node id="5685644791" lat="35.5662675" lon="-82.5392061">
     <tag k="emergency" v="fire_hydrant"/>
@@ -1962,7 +1977,7 @@
     <tag k="fire_hydrant:position" v="sidewalk"/>
     <tag k="fire_hydrant:type" v="pillar"/>
   </node>
-  <node id="7126804466" lat="35.0522839" lon="-85.3047780">
+  <node id="7126804466" lat="35.0522839" lon="-85.3047758">
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
@@ -5007,16 +5022,19 @@
   </node>
   <node id="9212687202" lat="35.0633573" lon="-85.3102797">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
   <node id="9212707509" lat="35.0339442" lon="-85.3017485">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9212707510" lat="35.0338553" lon="-85.3014530">
+  <node id="9212707510" lat="35.0337905" lon="-85.3014536">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
@@ -5088,6 +5106,7 @@
   </node>
   <node id="9213074507" lat="35.0359997" lon="-85.3072593">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
@@ -5214,6 +5233,7 @@
   </node>
   <node id="9222910935" lat="35.0556296" lon="-85.3066826">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
@@ -5550,12 +5570,12 @@
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9651751960" lat="36.3783156" lon="-84.8806042">
+  <node id="9651751960" lat="36.3783082" lon="-84.8805010">
     <tag k="couplings" v="3"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9651751961" lat="36.3779321" lon="-84.8792591">
+  <node id="9651751961" lat="36.3776617" lon="-84.8794224">
     <tag k="couplings" v="1"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="water_source" v="main"/>
@@ -5584,7 +5604,7 @@
     <tag k="water_source" v="main"/>
   </node>
   <node id="9651751984" lat="36.3748917" lon="-84.7795499">
-    <tag k="couplings" v="3"/>
+    <tag k="couplings" v="2"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
@@ -5596,12 +5616,12 @@
     <tag k="water_source" v="main"/>
   </node>
   <node id="9651752094" lat="36.4000760" lon="-84.7426837">
-    <tag k="couplings" v="1"/>
+    <tag k="couplings" v="3"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9651753607" lat="36.3944153" lon="-84.7205945">
+  <node id="9651753607" lat="36.3971907" lon="-84.7219826">
     <tag k="couplings" v="1"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
@@ -5800,8 +5820,8 @@
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9652005027" lat="36.4188251" lon="-84.9461247">
-    <tag k="couplings" v="1"/>
+  <node id="9652005027" lat="36.4181224" lon="-84.9452841">
+    <tag k="couplings" v="3"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
@@ -5878,7 +5898,7 @@
     <tag k="fire_hydrant:type" v="pillar"/>
     <tag k="water_source" v="main"/>
   </node>
-  <node id="9652005045" lat="36.4380886" lon="-84.9441583">
+  <node id="9652005045" lat="36.4384549" lon="-84.9442538">
     <tag k="couplings" v="1"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
@@ -6541,10 +6561,12 @@
   </node>
   <node id="10299605390" lat="35.0300914" lon="-85.3002431">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
   </node>
   <node id="10299616862" lat="35.0316716" lon="-85.3011275">
     <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="green"/>
     <tag k="fire_hydrant:type" v="pillar"/>
   </node>
   <node id="10299616863" lat="35.0342061" lon="-85.2992289">
@@ -6611,6 +6633,295 @@
   <node id="10592190560" lat="35.9691617" lon="-86.5620008">
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="survey:date" v="2023-01-29"/>
+  </node>
+  <node id="10707628801" lat="36.3628727" lon="-84.7097229">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707628802" lat="36.3634546" lon="-84.7062401">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707636873" lat="36.3793043" lon="-84.8810692">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707652980" lat="36.3731486" lon="-84.7614056">
+    <tag k="colour" v="#f40101"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707652981" lat="36.3506493" lon="-84.7220625">
+    <tag k="colour" v="#ff0000"/>
+    <tag k="couplings" v="1"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707654726" lat="36.4085694" lon="-84.8744977">
+    <tag k="colour" v="#fc0303"/>
+    <tag k="couplings" v="1"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707676493" lat="36.3901621" lon="-84.8783137">
+    <tag k="couplings" v="2"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707685154" lat="36.3700345" lon="-84.8518989">
+    <tag k="colour" v="#f90101"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707685155" lat="36.3754716" lon="-84.8509862">
+    <tag k="colour" v="#ff0000"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707685156" lat="36.3782828" lon="-84.8513558">
+    <tag k="colour" v="#f70202"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707685157" lat="36.3766478" lon="-84.8310027">
+    <tag k="colour" v="#fd0808"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707712465" lat="36.3603428" lon="-84.7003562">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707712489" lat="36.3612852" lon="-84.6977144">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707718516" lat="36.3629446" lon="-84.7043111">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707718517" lat="36.3613296" lon="-84.7020302">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707718555" lat="36.3600810" lon="-84.7029314">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707718575" lat="36.3599820" lon="-84.7043362">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707727321" lat="36.3635746" lon="-84.6942126">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707727322" lat="36.3637997" lon="-84.6954673">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10707734841" lat="36.3588910" lon="-84.6974758">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10707734842" lat="36.3572406" lon="-84.6949002">
+    <tag k="colour" v="#FFA500"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409481" lat="36.4336246" lon="-84.9436070">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409482" lat="36.4263228" lon="-84.9400459">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409483" lat="36.4270172" lon="-84.9373696">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409484" lat="36.4260649" lon="-84.9378229">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409485" lat="36.4251631" lon="-84.9388916">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409486" lat="36.4238128" lon="-84.9359871">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409487" lat="36.4253384" lon="-84.9359714">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409488" lat="36.4269638" lon="-84.9359667">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713409489" lat="36.4262611" lon="-84.9424767">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713432356" lat="36.4313124" lon="-84.9021974">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10713432357" lat="36.4234602" lon="-84.8997973">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10718096445" lat="36.4330837" lon="-84.9425074">
+    <tag k="colour" v="#fc0303"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10718096446" lat="36.4322395" lon="-84.9424556">
+    <tag k="colour" v="blue"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10718096447" lat="36.4323061" lon="-84.9348568">
+    <tag k="colour" v="green"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10726750448" lat="36.1050560" lon="-86.7299415">
+    <tag k="colour" v="red"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="green"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="water_source" v="main"/>
+  </node>
+  <node id="10726914187" lat="36.5505729" lon="-84.7983927">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10726914190" lat="36.5509575" lon="-84.7996454">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10726914191" lat="36.5514733" lon="-84.7998229">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10726914192" lat="36.5526718" lon="-84.7994307">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10726914193" lat="36.5540663" lon="-84.7990272">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728652987" lat="36.4961014" lon="-84.6112135">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728665297" lat="36.4878720" lon="-84.6975017">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728665298" lat="36.4880076" lon="-84.6972504">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728684607" lat="36.4861045" lon="-84.6990150">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728684608" lat="36.4706490" lon="-84.6515324">
+    <tag k="couplings" v="1"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728684635" lat="36.4796343" lon="-84.6149557">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728703439" lat="36.4910267" lon="-84.6063931">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729808" lat="36.5293281" lon="-84.6189790">
+    <tag k="couplings" v="1"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729809" lat="36.5012905" lon="-84.5988114">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729810" lat="36.5080125" lon="-84.5977672">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729811" lat="36.4946885" lon="-84.5886762">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729813" lat="36.4956616" lon="-84.5826849">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729814" lat="36.4960258" lon="-84.5771856">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10728729815" lat="36.5005203" lon="-84.5599138">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10739515150" lat="35.0471366" lon="-85.3096388">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10739562323" lat="35.0449362" lon="-85.3102518">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10741348136" lat="36.4111775" lon="-84.6785404">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10744019858" lat="35.8167322" lon="-83.1419790">
+    <tag k="colour" v="red"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10745126649" lat="35.8294390" lon="-83.2409743">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10748796490" lat="35.0371635" lon="-85.3103556">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10760159353" lat="35.0440599" lon="-85.3040331">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="10793806155" lat="36.3625629" lon="-84.8623952">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10793806189" lat="36.3433574" lon="-84.8714606">
+    <tag k="couplings" v="1"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="10794418184" lat="36.3355353" lon="-84.8874855">
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
   </node>
 
 </osm>
