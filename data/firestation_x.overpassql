@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-15T00:27:39Z"/>
+<meta osm_base="2023-05-20T19:49:24Z"/>
 
   <node id="153554776" lat="35.2248169" lon="-87.2506676">
     <tag k="amenity" v="fire_station"/>
@@ -249,7 +249,7 @@
     <tag k="name" v="Keiser Fire Department"/>
     <tag k="source" v="USGS Geonames"/>
   </node>
-  <node id="367129922" lat="35.5078474" lon="-90.1481605">
+  <node id="367129922" lat="35.5074964" lon="-90.1481395">
     <tag k="addr:state" v="AR"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="ele" v="71"/>
@@ -2163,6 +2163,26 @@
     <tag k="name" v="Gordonsville Fire Department"/>
     <tag k="operator" v="City of Gordonsville"/>
     <tag k="wikipedia" v="en:Gordonsville Fire Department"/>
+  </node>
+  <node id="10835751343" lat="35.7410948" lon="-86.6502679">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Eagleville Fire Department"/>
+  </node>
+  <node id="10838413417" lat="36.6092431" lon="-83.5780226">
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Thomas Walker Volunteer Fire Department Station 2"/>
+  </node>
+  <node id="10879929952" lat="35.7604897" lon="-84.6440848">
+    <tag k="amenity" v="fire_station"/>
+  </node>
+  <node id="10897822906" lat="35.6119362" lon="-81.9817566">
+    <tag k="addr:city" v="Marion"/>
+    <tag k="addr:housenumber" v="1745"/>
+    <tag k="addr:postcode" v="28752"/>
+    <tag k="addr:state" v="NC"/>
+    <tag k="addr:street" v="Old Highway 221 South"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="GLENWOOD FIRE DEPARTMENT"/>
   </node>
 
 </osm>
