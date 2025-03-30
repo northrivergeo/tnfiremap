@@ -17,13 +17,11 @@ wget -O ../data/firestation_x.overpassql --post-file=firestation_points.overpass
 ogr2ogr -f "GEOJSON" ../data/hydrant_conv.geojson ../data/hydrant.overpassql points
 ogr2ogr -f "GEOJSON" ../data/firestation_x_conv.geojson ../data/firestation_x.overpassql points
 ogr2ogr -f "GEOJSON" ../data/firestation_p_conv.geojson ../data/firestation_p.overpassql multipolygons --config OSM_USE_CUSTOM_INDEXING NO -nlt POINTS -nln firestations 
-
 ogr2ogr -sql "SELECT ST_PointOnSurface(geometry), * FROM firestations" -dialect sqlite ../data/firestation.gpkg ../data/firestation_p_conv.geojson -nln firestations -nlt point
-
 ogr2ogr -f GPKG -update -append ../data/firestation.gpkg ../data/firestation_x_conv.geojson -nln firestations -nlt point
 
-ogr2ogr -clipsrc ../data/tn.geojson ../data/hydrant.geojson ../data/hydrant_conv.geojson
-ogr2ogr -clipsrc ../data/tn.geojson ../data/firestation.geojson ../data/firestation.gpkg 
+ogr2ogr -clipsrc ../data/hamilton_county.geojson ../data/hydrant.geojson ../data/hydrant_conv.geojson
+ogr2ogr -clipsrc ../data/hamilton_county.geojson ../data/firestation.geojson ../data/firestation.gpkg 
 
 
 #hyd="var hydrant = {"

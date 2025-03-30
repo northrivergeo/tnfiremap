@@ -7,7 +7,7 @@ The original search was:
 // gather results
 (
   // query part for: “"fire station"”
-     way["amenity"="fire_station"](35.00208, -90.34742, 36.61557, -81.64104);
+     way["amenity"="fire_station"](34.9788,-85.4991, 35.4747,-84.9277);
   // relation["amenity"="fire_station"](35.00208, -90.34742, 36.61557, -81.64104);
 );
 // print results
