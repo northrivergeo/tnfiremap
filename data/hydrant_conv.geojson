@@ -278,6 +278,11 @@
 { "type": "Feature", "properties": { "osm_id": "12717341029", "other_tags": "\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2411061, 35.0210222 ] } },
 { "type": "Feature", "properties": { "osm_id": "12717341030", "other_tags": "\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2416144, 35.0217108 ] } },
 { "type": "Feature", "properties": { "osm_id": "12717341031", "other_tags": "\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2440143, 35.0229667 ] } },
-{ "type": "Feature", "properties": { "osm_id": "12717341032", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2453011, 35.0235576 ] } }
+{ "type": "Feature", "properties": { "osm_id": "12717341032", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2453011, 35.0235576 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12723929779", "other_tags": "\"colour\"=>\"red\",\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2000716, 34.9985224 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12735433673", "other_tags": "\"colour\"=>\"yellow\",\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2329689, 35.0168766 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12735446060", "other_tags": "\"colour\"=>\"yellow\",\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2302384, 35.0182188 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12735446061", "other_tags": "\"colour\"=>\"yellow\",\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2257216, 35.0177926 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12735446062", "other_tags": "\"colour\"=>\"yellow\",\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2288356, 35.0151478 ] } }
 ]
 }

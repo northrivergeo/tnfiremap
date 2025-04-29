@@ -73,8 +73,6 @@
         }
 
 
-
-
         jQuery.getJSON( "https://northrivergeo.github.io/tnfiremap/data/firestation.geojson", function( json ){
            L.geoJSON( json, {
            onEachFeature: addMyFireData,
@@ -88,6 +86,8 @@
 	   pointToLayer: createCircleHydMarker
            })
        })
+	
+
 
        function addMyFireData( feature, layer ){
            firelayer.addLayer( layer )
