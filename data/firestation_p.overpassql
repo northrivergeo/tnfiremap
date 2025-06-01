@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-25T15:42:06Z"/>
+<meta osm_base="2025-06-01T23:31:37Z"/>
 
   <way id="51851274">
     <nd ref="661442857"/>
@@ -70,6 +70,7 @@
     <nd ref="945140968"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
+    <tag k="name" v="Chattanooga Fire Station 16"/>
   </way>
   <way id="81251911">
     <nd ref="946674742"/>
