@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-01T23:31:37Z"/>
+<meta osm_base="2025-06-01T23:45:00Z"/>
 
   <node id="1364451535" lat="35.0623899" lon="-85.3072231">
     <tag k="emergency" v="fire_hydrant"/>
@@ -1510,11 +1510,6 @@
     <tag k="couplings" v="3"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="fire_hydrant:type" v="pillar"/>
-  </node>
-  <node id="12879369583" lat="35.0509420" lon="-85.3107575">
-    <tag k="colour" v="yellow"/>
-    <tag k="couplings" v="3"/>
-    <tag k="emergency" v="fire_hydrant"/>
   </node>
   <node id="12879389258" lat="35.0380588" lon="-85.3126171">
     <tag k="colour" v="yellow"/>
