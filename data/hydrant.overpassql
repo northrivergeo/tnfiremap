@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-04T21:23:21Z"/>
+<meta osm_base="2025-06-23T21:28:56Z"/>
 
   <node id="1364451535" lat="35.0623899" lon="-85.3072231">
     <tag k="emergency" v="fire_hydrant"/>
@@ -1520,6 +1520,186 @@
     <tag k="colour" v="yellow"/>
     <tag k="couplings" v="3"/>
     <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="12902572321" lat="35.0417745" lon="-85.2583811">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981721" lat="35.0464354" lon="-85.3106698">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981722" lat="35.0458919" lon="-85.3106350">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981723" lat="35.0458381" lon="-85.3114316">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981724" lat="35.0455768" lon="-85.3102863">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981725" lat="35.0450250" lon="-85.3092355">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981726" lat="35.0449169" lon="-85.3095433">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981727" lat="35.0454538" lon="-85.3095232">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12903981728" lat="35.0456610" lon="-85.3092523">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12907577219" lat="35.0426517" lon="-85.2697474">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12907577220" lat="35.0448268" lon="-85.2685390">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12907577221" lat="35.0450618" lon="-85.2668908">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12907577222" lat="35.0438123" lon="-85.2675708">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12907577223" lat="35.0428346" lon="-85.2681166">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256319" lat="35.0484007" lon="-85.3127190">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256320" lat="35.0483985" lon="-85.3115684">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256321" lat="35.0484226" lon="-85.3107168">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256322" lat="35.0483079" lon="-85.3103694">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256323" lat="35.0484314" lon="-85.3096895">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256324" lat="35.0483408" lon="-85.3093629">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256325" lat="35.0484605" lon="-85.3085797">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256326" lat="35.0483189" lon="-85.3083440">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12945256327" lat="35.0484904" lon="-85.3073107">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947469250" lat="35.0686273" lon="-85.3152477">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947469594" lat="35.0659638" lon="-85.3121504">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947469595" lat="35.0658464" lon="-85.3105418">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947469596" lat="35.0647075" lon="-85.3105183">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947469597" lat="35.0636252" lon="-85.3101482">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947491273" lat="35.0667646" lon="-85.3091779">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="12947491274" lat="35.0669479" lon="-85.3103668">
+    <tag k="colour" v="yellow"/>
+    <tag k="couplings" v="3"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
   </node>
 
 </osm>
